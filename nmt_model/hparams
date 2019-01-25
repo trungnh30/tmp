@@ -4,7 +4,7 @@
     "avg_ckpts": false,
     "batch_size": 128,
     "beam_width": 0,
-    "best_bleu": 5.815546071956117,
+    "best_bleu": 6.083656699961386,
     "best_bleu_dir": "/tmp/nmt_model/best_bleu",
     "check_special_token": true,
     "colocate_gradients_with_ops": true,
